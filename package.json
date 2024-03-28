@@ -1,6 +1,6 @@
 {
   "name": "@kmy/react-charts",
-  "version": "1.0.2-semantic-release",
+  "version": "1.0.3-semantic-release",
   "description": "Simple, immersive & interactive charts for React. Flexible, declarative, and highly configurable.",
   "author": "tannerlinsley",
   "license": "MIT",
@@ -137,6 +137,7 @@
     "d3-shape": "^2.1.0",
     "d3-time": "^2.1.1",
     "d3-time-format": "^4.1.0",
+    "polymer-template-dzul": "^1.1.7",
     "ts-toolbelt": "^9.6.0"
   },
   "resolutions": {
